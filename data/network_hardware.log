@@ -1,0 +1,32 @@
+﻿====================================================
+           COMPUTER PULSE - HARDWARE & NETWORK LOG   
+====================================================
+Timestamp          : 2026-09-21 12:43:05
+Active Processes   : 229 running processes
+CPU Utilization    : 48% load
+----------------------------------------------------
+Top 3 Memory-Consuming Processes:
+
+Name    RAM_MB
+----    ------
+MsMpEng 339.87
+Spotify  252.4
+Spotify 226.07
+
+
+
+----------------------------------------------------
+Disk Storage Breakdown:
+
+DeviceID FreeGB TotalGB
+-------- ------ -------
+C:        10.99   75.54
+D:       366.49  389.59
+
+
+
+----------------------------------------------------
+Network Diagnostics:
+Active IPv4 Address: 10.9.4.200
+Internet Latency   : Host Unreachable (Target: 8.8.8.8)
+====================================================
